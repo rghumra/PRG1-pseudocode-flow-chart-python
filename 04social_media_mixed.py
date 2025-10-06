@@ -34,7 +34,7 @@ else:
     status = "Getting Started"
     rate_per_post = 0
 
-# Output
+# Output n
 print(f"\n{username}, you are a: {status}")
 print(f"Your influence score: {influence_rating:.1f}")
 
